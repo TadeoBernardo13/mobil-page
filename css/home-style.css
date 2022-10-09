@@ -1,0 +1,6 @@
+.nuevo-boleto .QR
+{
+    border: solid 1px black;
+    width: 200px;
+    height: 250px;
+}
