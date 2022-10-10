@@ -2,13 +2,16 @@
 use a mobil responsive view
 
 ## Home view
-![image](https://user-images.githubusercontent.com/74383773/194781740-5730dd18-ee0e-4c76-a8ee-d43aaed4635f.png)
+![image](https://user-images.githubusercontent.com/74383773/194829855-c113ea21-ad02-4fbf-ab78-c80d864d0d5b.png)
+
+### Menu Offcanvas
+![image](https://user-images.githubusercontent.com/74383773/194829970-9ccf581d-8dac-4e18-892b-ef15a2dae100.png)
 
 ### Press the QR
-![image](https://user-images.githubusercontent.com/74383773/194781925-986ca4e5-c2ce-48e9-b677-ff86b0a7e383.png)
+![image](https://user-images.githubusercontent.com/74383773/194830214-2a5bb053-61db-4255-b439-a6df6dee0078.png)
 
 ## Recharge View
-![image](https://user-images.githubusercontent.com/74383773/194782904-48c493e9-aa86-4bfc-b764-11df880f4438.png)
+![image](https://user-images.githubusercontent.com/74383773/194830033-45ec2eef-bd73-4adf-a99c-b5d69e866492.png)
 
 ## Record View
-![image](https://user-images.githubusercontent.com/74383773/194828981-b27c175f-655b-465d-ace8-a7a42af24e06.png)
+![image](https://user-images.githubusercontent.com/74383773/194830091-0a611a65-91cf-4493-8808-7ba06405784a.png)
