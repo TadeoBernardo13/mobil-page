@@ -9,3 +9,6 @@ use a mobil responsive view
 
 ## Recharge View
 ![image](https://user-images.githubusercontent.com/74383773/194782904-48c493e9-aa86-4bfc-b764-11df880f4438.png)
+
+## Record View
+![image](https://user-images.githubusercontent.com/74383773/194828981-b27c175f-655b-465d-ace8-a7a42af24e06.png)
